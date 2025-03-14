@@ -1,0 +1,21 @@
+{
+    "name": "_Project.Scripts.Gameplay.StateMachine",
+    "rootNamespace": "",
+    "references": [
+        "GUID:16b549f1aceaa8b4a943ad3795b7cc3d",
+        "GUID:91cde0947806ab14ab7546d173e1eec1",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:26481c2bd27439944ba1d78132d3626c",
+        "GUID:1da452443d00efc4cbb04283d256bae2",
+        "GUID:7686834844788ae44887484c8a194ddd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

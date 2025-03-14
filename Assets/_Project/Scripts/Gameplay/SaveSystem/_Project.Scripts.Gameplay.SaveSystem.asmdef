@@ -1,0 +1,16 @@
+{
+    "name": "_Project.Scripts.Gameplay.SaveSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:91cde0947806ab14ab7546d173e1eec1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

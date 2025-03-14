@@ -1,0 +1,54 @@
+{
+    "name": "InputControls",
+    "maps": [
+        {
+            "name": "Gameplay",
+            "id": "e6795d5c-becf-4d9c-b412-311e880a9c75",
+            "actions": [
+                {
+                    "name": "Click",
+                    "type": "Button",
+                    "id": "233c9029-59a9-4605-9cba-34b79087a627",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "CursorPosition",
+                    "type": "Value",
+                    "id": "5003f591-5836-4bf1-8973-10847e256b6c",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c79486ab-2ea6-49f7-b1c9-cff9d7f7cf84",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a5329724-6ecc-4be1-968f-e6987248cde7",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CursorPosition",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

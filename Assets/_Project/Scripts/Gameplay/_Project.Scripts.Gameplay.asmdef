@@ -1,0 +1,18 @@
+{
+    "name": "_Project.Scripts.Gameplay",
+    "rootNamespace": "",
+    "references": [
+        "GUID:16b549f1aceaa8b4a943ad3795b7cc3d",
+        "GUID:91cde0947806ab14ab7546d173e1eec1",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
